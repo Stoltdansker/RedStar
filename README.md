@@ -1,2 +1,3 @@
-# RedStar
-This is my Discord multitool.
+# Progress
+
+The program is still under development.
